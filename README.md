@@ -56,7 +56,7 @@ Nosso foco é conectar as pontas do mercado através de anúncios estratégicos,
 <p align="center">
   <br>
   <strong>Hermes © 2026</strong> <br>
-  Desenvolvido por: <a href="https://github.com/DandaraDandara">Dandara Monike</a>, <b>Álvaro Carvalho</b>, <b>Leonardo Lamari</b> e <b>Luccas Covre</b>
+  Desenvolvido por: <a href="https://github.com/DandaraDandara">Dandara Monike</a>, <a href="https://github.com/alvaro2003">Álvaro Carvalho</a>, <a href="https://github.com/LeonardoLamar12">Leonardo Lamari</a> e <a href="https://github.com/LuccasCovre">Luccas Covre</a>
 </p>
 
 <p align="center">
