@@ -24,7 +24,7 @@
 </p>
 
 <br><br>
-O <strong>Hermes é uma plataforma digital</strong> feita para facilitar a compra e venda de alimentos entre empresas (B2B). Ele funciona como uma ponte tecnológica que conecta produtores e distribuidores diretamente a restaurantes e mercados, de um jeito rápido, simples e muito seguro.
+O <strong>Hermes é uma plataforma digital</strong> feita para facilitar a compra e venda de alimentos entre empresas (B2B). Ele funciona como uma ponte tecnológica que conecta produtores e distribuidores diretamente a restaurantes e mercados, de um jeito rápido, simples e seguro.
 <br><br>
 Nosso foco é conectar as pontas do mercado através de anúncios estratégicos, garantindo que compradores encontrem os melhores insumos e fornecedores alcancem novos parceiros de forma direta. <strong>Criamos um visual que equilibra a confiança de um negócio sério (no tom Teal) com o dinamismo de um mercado moderno e conectado (no Verde Lima)</strong>.
 <br><br>
