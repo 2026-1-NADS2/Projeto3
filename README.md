@@ -1,8 +1,3 @@
-```sh
-Utilize o site <https://www.toptal.com/developers/gitignore> para gerar seu arquivo gitignore e apague este campo.
-
-Vide tutoriais do PI.
-```
 
 # FECAP - Fundação de Comércio Álvares Penteado
 
@@ -10,7 +5,7 @@ Vide tutoriais do PI.
 <a href= "https://www.fecap.br/"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhZPrRa89Kma0ZZogxm0pi-tCn_TLKeHGVxywp-LXAFGR3B1DPouAJYHgKZGV0XTEf4AE&usqp=CAU" alt="FECAP - Fundação de Comércio Álvares Penteado" border="0"></a>
 </p>
 
-# 📦 Hermes 
+# Hermes 
 # Marketplace B2B
 
 ## Hazel
@@ -21,17 +16,18 @@ Vide tutoriais do PI.
 
 ## Descrição
 
- <!--<p align="center">
-<img src="https://pix4free.org/assets/library/2021-01-20/originals/game.jpg" alt="NOME DO JOGO" border="0">
-  Game by <a href="http://www.nyphotographic.com/">Nick Youngson</a> <a rel="license" href="https://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a> <a href="http://pix4free.org/">Pix4free</a>
-</p>-->
+<p align="center">
+  <img src="imagens/logo_hermes(3).PNG" alt="logo.Hermes" border="0"><br>
+  Desenvolvido por <a href="">Hazel</a> | 
+  <a rel="license" href="https://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a> | 
+  <a href="http://pix4free.org/">Pix4free</a>
+</p>
 
-<!--De um a dois parágrafos sobre o que é seu projeto e o que ele faz.
 <br><br>
-Meu projeto ajuda estudantes FECAP a configurarem seus githubs.
+O <strong>Hermes é uma plataforma digital</strong> feita para facilitar a compra e venda de alimentos entre empresas (B2B). Ele funciona como uma ponte que conecta produtores e distribuidores diretamente a restaurantes e mercados, de um jeito rápido, simples e seguro.
 <br><br>
-May the force be with you!
-<br><br>-->
+Nosso foco é organizar a entrega de mercadorias para que o estoque nunca fique vazio e o alimento chegue sempre fresco ao destino. Criamos um visual que equilibra a confiança de um negócio sério (no tom Teal) com a agilidade de uma logística moderna (no Verde Lima).
+<br><br>
 
 ## 🛠 Estrutura de pastas
 
@@ -57,8 +53,19 @@ May the force be with you!
 (mais informações na segunda entrega)
 
 ## 📋 Licença/License
-Utilize o link <https://chooser-beta.creativecommons.org/> para fazer uma licença CC BY 4.0.
+<p align="center">
+  <br>
+  <strong>Hermes © 2026</strong> <br>
+  Desenvolvido por: <a href="https://github.com/DandaraDandara">Dandara Monike</a>, <b>Álvaro Carvalho</b>, <b>Leonardo Lamari</b> e <b>Luccas Covre</b>
+</p>
 
+<p align="center">
+  <a rel="license" href="http://creativecommons.org/licenses/by-nd/4.0/">
+    <img alt="Licença Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nd/4.0/88x31.png" />
+  </a>
+  <br>
+  <small>Este trabalho está licenciado sob uma <a rel="license" href="http://creativecommons.org/licenses/by-nd/4.0/">Licença CC BY-ND 4.0</a></small>
+</p>
 ## 🎓 Referências
 
 Aqui estão as referências usadas no projeto.
