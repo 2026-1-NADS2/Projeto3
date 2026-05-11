@@ -6,9 +6,9 @@
 </p>
 
 # Hermes 
-# Marketplace B2B
+## Marketplace B2B
 
-## Hazel
+## Grupo: Hazel
 
 ## Integrantes: <a href="https://www.linkedin.com/in/%C3%A1lvaro-palazzin-053784271/">Álvaro Carvalho</a>, <a href="https://www.linkedin.com/in/dandaramonike/">Dandara Monike</a>, <a href="https://www.linkedin.com/in/leonardo-lamari-1b1464382/">Leonardo Lamari</a>, <a href="https://www.linkedin.com/in/luccas-covre/">Luccas Covre</a>
 
@@ -47,10 +47,13 @@ Nosso foco é conectar as pontas do mercado através de anúncios estratégicos,
 |readme.md<br>
 
 ## 🛠 Instalação
-(mais informações na segunda entrega)
+HTML:
+Não há instalação! Encontre o index.html na pasta executáveis e execute-o como uma página WEB (através de algum browser).
 
 ## 💻 Configuração para Desenvolvimento
-(mais informações na segunda entrega)
+Para abrir este projeto você necessita das seguintes ferramentas:
+- MySQL Workbench
+- VScode
 
 ## 📋 Licença/License
 <p align="center">
@@ -72,3 +75,6 @@ Nosso foco é conectar as pontas do mercado através de anúncios estratégicos,
 Aqui estão as referências usadas no projeto.
 
 1. <https://github.com/fecaphub/Template_PI>
+2. https://www.nngroup.com/articles/ten-usability-heuristics/
+3. https://developer.mozilla.org.
+4. https://www.cortex-intelligence.com/blog/industria/food-service-no-brasil
