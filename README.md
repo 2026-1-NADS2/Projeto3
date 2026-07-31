@@ -29,6 +29,13 @@ O <strong>Hermes é uma plataforma digital</strong> feita para facilitar a compr
 Nosso foco é conectar as pontas do mercado através de anúncios estratégicos, garantindo que compradores encontrem os melhores insumos e fornecedores alcancem novos parceiros de forma direta. <strong>Criamos um visual que equilibra a confiança de um negócio sério (no tom Teal) com o dinamismo de um mercado moderno e conectado (no Verde Lima)</strong>.
 <br><br>
 
+<p align="center">
+  <img src="imagens/banner_promo_hermes.png" alt="logo.Hermes" border="0"><br>
+  Desenvolvido por <a href="">Hazel</a> | 
+  <a rel="license" href="https://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a> | 
+  <a href="http://pix4free.org/">Pix4free</a>
+</p>
+
 ## 🛠 Estrutura de pastas
 
 -Raiz<br>
